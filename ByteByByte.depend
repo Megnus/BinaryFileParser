@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1385048443 source:c:\source\lab\github\bytebybyte\main.cpp
+	<stdio.h>
+	<iostream>
+	"xml.h"
+
+1385022758 source:c:\source\lab\github\bytebybyte\xml.cpp
+	"z.h"
+	"xml.h"
+	<crtdbg.h>
+	"mime.h"
+
+1385022676 c:\source\lab\github\bytebybyte\xml.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<windows.h>
+	<wininet.h>
+	<tchar.h>
+	<unistd.h>
+	<vector>
+
