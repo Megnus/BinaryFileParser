@@ -22,3 +22,26 @@
 	<unistd.h>
 	<vector>
 
+1385048721 source:c:\source\lab\github\binaryfileparser\main.cpp
+	<stdio.h>
+	<iostream>
+	"xml.h"
+
+1385022676 c:\source\lab\github\binaryfileparser\xml.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<windows.h>
+	<wininet.h>
+	<tchar.h>
+	<unistd.h>
+	<vector>
+
+1385022758 source:c:\source\lab\github\binaryfileparser\xml.cpp
+	"z.h"
+	"xml.h"
+	<crtdbg.h>
+	"mime.h"
+
